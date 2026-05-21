@@ -1,3 +1,19 @@
+// -------------------------------------------
+// Photoshop Group Sorter (2026 Compatible)
+// --
+//
+// Description:
+// Sorts ONLY groups (LayerSets) inside the
+// selected folder in Photoshop.
+//
+// - Works recursively for nested groups
+// - A → Z alphabetical sorting
+// - Natural numeric sorting (1, 2, 10)
+// - Does NOT affect individual layers
+// - Safe for Photoshop 2026 scripting engine
+// -------------------------------------------
+
+
 #target photoshop
 
 app.bringToFront();
