@@ -36,21 +36,7 @@ Run: Restart Photoshop, open your document, and go to `File > Scripts > Sort Lay
 - Layer styles
 - Smart objects
 - Pixel content
-
----
-
-## Example
-
-Before:
-Group 10
-Group 2
-Group 1
-
-After:
-Group 1
-Group 2
-Group 10
-
+  
 ---
 
 ## Notes
